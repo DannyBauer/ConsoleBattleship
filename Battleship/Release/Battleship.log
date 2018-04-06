@@ -1,0 +1,8 @@
+﻿  Battleship.cpp
+Battleship.cpp(33): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  12 of 31 functions (38.7%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Battleship.vcxproj -> E:\Project Files\Battleship\Release\Battleship.exe
